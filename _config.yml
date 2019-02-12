@@ -9,7 +9,7 @@
 title: HyG
 brief-intro: Front-end Dev Engineer
 # the subpath of your site, e.g. /blog
-baseurl: "/dljblog/"
+baseurl: "/dljblog"
 # the base hostname & protocol for your site
 url: "https://dinglianju.github.io"
 
