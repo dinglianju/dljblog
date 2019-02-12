@@ -8,8 +8,8 @@
 # Site settings
 title: eagle
 brief-intro: Front-end Dev Engineer
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://dinglianju.github.io/dljblog/" # the base hostname & protocol for your site
+baseurl: "/dljblog" # the subpath of your site, e.g. /blog
+url: "https://dinglianju.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
